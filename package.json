@@ -1,0 +1,23 @@
+{
+  "name": "peertube-theme-haxx-magenta",
+  "version": "1.0.1",
+  "description": "haxx magenta PeerTube Theme",
+  "engine": {
+    "peertube": ">=1.3.0"
+  },
+  "keywords": [
+    "peertube",
+    "theme",
+    "magenta",
+    "dark"
+  ],
+  "homepage": "https://github.com/gordon0001/peertube-theme-haxx-magenta",
+  "author": "gordon0001",
+  "bugs": "https://github.com/gordon0001/peertube-theme-haxx-magenta/issues",
+  "staticDirs": {
+    "images": "public/images"
+  },
+  "css": [
+    "assets/style.css"
+  ]
+}
